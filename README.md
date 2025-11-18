@@ -103,6 +103,20 @@ My-Undergrad-Project-Vault/
 
 ## 🔄 Projects (Auto-Generated)
 <!-- PROJECT_CARDS_START -->
+### [Test-Project](./Test-Project)
+Sample Test Project
+
+[View project →](./Test-Project)
+
+---
+
+### [scripts](./scripts)
+Scripts — project folder. Open for details.
+
+[View project →](./scripts)
+
+---
+
 <!-- PROJECT_CARDS_END -->
 
 ---
