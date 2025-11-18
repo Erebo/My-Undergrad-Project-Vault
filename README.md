@@ -103,6 +103,13 @@ My-Undergrad-Project-Vault/
 
 ## 🔄 Projects (Auto-Generated)
 <!-- PROJECT_CARDS_START -->
+### [CO Monitoring & Data Recording System (CSE122)](./CO Monitoring & Data Recording System (CSE122))
+<!-- PROJECT BANNER -->
+
+[View project →](./CO Monitoring & Data Recording System (CSE122))
+
+---
+
 ### [Test-Project](./Test-Project)
 Sample Test Project
 
