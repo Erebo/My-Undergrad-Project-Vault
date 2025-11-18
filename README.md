@@ -104,6 +104,20 @@ My-Undergrad-Project-Vault/
 
 ## 🔄 Projects (Auto-Generated)
 <!-- PROJECT_CARDS_START -->
+### [Test-Project](./Test-Project)
+Sample Test Project
+
+[View project →](./Test-Project)
+
+---
+
+### [scripts](./scripts)
+Scripts — project folder. Open for details.
+
+[View project →](./scripts)
+
+---
+
 <!-- PROJECT_CARDS_END -->
 
 > Add a one-line description at the top of each project’s README.md to customize its card.
