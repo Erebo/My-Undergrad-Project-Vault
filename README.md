@@ -99,49 +99,41 @@ My-Undergrad-Project-Vault/
 ├── .github/
 └── README.md
 
-
 ---
 
 ## 🔄 Projects (Auto-Generated)
 <!-- PROJECT_CARDS_START -->
 <!-- PROJECT_CARDS_END -->
 
-> Add a one-line description at the top of each project’s README.md to customize its card.
-
 ---
-
 ## 📦 Running a Project
 
-### Node.js Example
+### **Node.js Example**
 ```bash
 cd Project-A
 npm install
 npm start
+```
 
-ESP32 (PlatformIO) Example
+### **ESP32 (PlatformIO) Example**
+```bash
 cd Project-B
 pio run --target upload
-
-📬 Contact
-
-📧 Email: 251-15-008@diu.edu.bd
-
-🤝 Contributing
-
-Feedback and collaboration are welcome.
-Feel free to open an issue or submit a pull request.
-⚖️ License
-
-Unless otherwise noted, this repository uses the MIT License.
+```
 
 ---
 
-# ✅ After pasting this:
+## 📬 Contact
+📧 Email: **251-15-008@diu.edu.bd**
 
-### Run these EXACT commands:
+---
 
-```powershell
-git add README.md
-git commit -m "update: final professional README"
-git pull --rebase origin main
-git push origin main
+## 🤝 Contributing
+Feedback and collaboration are welcome.  
+Feel free to open an issue or submit a pull request.
+
+---
+
+## ⚖️ License
+Unless otherwise noted, this repository uses the **MIT License**.
+
