@@ -41,6 +41,13 @@ My-Undergrad-Project-Vault/
 
 ## 🔄 Projects (auto-generated)
 <!-- PROJECT_CARDS_START -->
+### [scripts](./scripts)
+Scripts — project folder. Open for details.
+
+[View project →](./scripts)
+
+---
+
 <!-- PROJECT_CARDS_END -->
 
 ---
