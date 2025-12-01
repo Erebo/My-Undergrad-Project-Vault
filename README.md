@@ -103,6 +103,13 @@ My-Undergrad-Project-Vault/
 
 ## 🔄 ALL Projects :
 <!-- PROJECT_CARDS_START -->
+### [Amusement-Park-Management-System_CSE124](https://github.com/Erebo/Amusement-Park-Management-System_CSE124)
+Amusement Park Management System Cse124 — submodule at `Amusement-Park-Management-System_CSE124`. Click to open the project repository.
+
+[View project →](https://github.com/Erebo/Amusement-Park-Management-System_CSE124)
+
+---
+
 ### [CO-monitoring-data-recording-system_CSE122](./CO-monitoring-data-recording-system_CSE122)
 <!-- PROJECT BANNER -->
 
@@ -110,17 +117,17 @@ My-Undergrad-Project-Vault/
 
 ---
 
-### [Test-Project](./Test-Project)
-Sample Test Project
-
-[View project →](./Test-Project)
-
----
-
 ### [scripts](./scripts)
 Scripts — project folder. Open for details.
 
 [View project →](./scripts)
+
+---
+
+### [Test-Project](./Test-Project)
+Sample Test Project
+
+[View project →](./Test-Project)
 
 ---
 
