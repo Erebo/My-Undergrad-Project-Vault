@@ -117,17 +117,17 @@ Amusement Park Management System Cse124 — submodule at `Amusement-Park-Managem
 
 ---
 
-### [scripts](./scripts)
-Scripts — project folder. Open for details.
-
-[View project →](./scripts)
-
----
-
 ### [Test-Project](./Test-Project)
 Sample Test Project
 
 [View project →](./Test-Project)
+
+---
+
+### [scripts](./scripts)
+Scripts — project folder. Open for details.
+
+[View project →](./scripts)
 
 ---
 
