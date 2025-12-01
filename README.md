@@ -110,13 +110,6 @@ Amusement Park Management System Cse124 — submodule at `Amusement-Park-Managem
 
 ---
 
-### [CO-monitoring-data-recording-system_CSE122](./CO-monitoring-data-recording-system_CSE122)
-<!-- PROJECT BANNER -->
-
-[View project →](./CO-monitoring-data-recording-system_CSE122)
-
----
-
 ### [Test-Project](./Test-Project)
 Sample Test Project
 
