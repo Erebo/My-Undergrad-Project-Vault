@@ -103,6 +103,13 @@ My-Undergrad-Project-Vault/
 
 ## 🔄 ALL Projects :
 <!-- PROJECT_CARDS_START -->
+### [Amusement-Park-Management-System_CSE124](./Amusement-Park-Management-System_CSE124)
+Amusement Park Management System Cse124 — project folder. Open for details.
+
+[View project →](./Amusement-Park-Management-System_CSE124)
+
+---
+
 ### [CO-monitoring-data-recording-system_CSE122](./CO-monitoring-data-recording-system_CSE122)
 <!-- PROJECT BANNER -->
 
